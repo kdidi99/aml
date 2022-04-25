@@ -1,2 +1,2 @@
-# aml
-Advanced Machine Learning, Heidelberg University 2022
+# Advanced Machine Learning (AML
+Exercises for lecture @Heidelberg University, 2022
